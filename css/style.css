@@ -2,9 +2,10 @@
 @import url("https://fonts.googleapis.com/css2?family=Baloo+Tamma+2:wght@400;500;600;700;800&display=swap");
 :root {
   --my-dark-blue: #19283f;
+  --my-blue: #0a70c0;
+  --my-cyan: #33d1cc;
   --my-gold: #ffc400;
   --my-red: #c06;
-  --my-cyan: #33d1cc;
   --my-light: #eee;
   --my-shade: #eff7fa;
   --my-shadow: 1px 3px 1px #00000060;
